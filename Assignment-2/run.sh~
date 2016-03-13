@@ -1,0 +1,5 @@
+#!bin/bash
+cp lein /usr/local/bin
+cd /usr/local/bin
+chmod a+x lein
+./lein
